@@ -1,0 +1,867 @@
+{
+    "x": {
+        "visdat": {
+            "33a81c1b6396": [
+                "function () ",
+                "plotlyVisDat"
+            ]
+        },
+        "cur_data": "33a81c1b6396",
+        "attrs": {
+            "33a81c1b6396": {
+                "x": {},
+                "y": {},
+                "mode": "lines+markers",
+                "customdata": {},
+                "hovertemplate": "%{customdata}<extra><\/extra>",
+                "color": {},
+                "colors": [
+                    "#4B0082",
+                    "#006FB5",
+                    "#BF000A",
+                    "#FFA500",
+                    "#fde725"
+                ],
+                "alpha_stroke": 1,
+                "sizes": [
+                    10,
+                    100
+                ],
+                "spans": [
+                    1,
+                    20
+                ],
+                "type": "scatter"
+            }
+        },
+        "layout": {
+            "margin": {
+                "b": 50,
+                "l": 10,
+                "t": 40,
+                "r": 10
+            },
+            "yaxis": {
+                "domain": [
+                    0,
+                    1
+                ],
+                "automargin": true,
+                "tickformat": ",.0f",
+                "ticksuffix": " CHF",
+                "rangemode": "tozero",
+                "title": "",
+                "linecolor": "black",
+                "ticklen": 7.5,
+                "fixedrange": false
+            },
+            "xaxis": {
+                "domain": [
+                    0,
+                    1
+                ],
+                "automargin": true,
+                "rangeselector": {
+                    "buttons": [
+                        {
+                            "count": 12,
+                            "label": "Letzte 10 Jahre",
+                            "step": "year",
+                            "stepmode": "backward"
+                        },
+                        {
+                            "label": "Alle Jahre",
+                            "step": "all"
+                        }
+                    ]
+                },
+                "title": "",
+                "showgrid": false,
+                "linecolor": "black",
+                "ticklen": 7.5,
+                "fixedrange": false
+            },
+            "hovermode": "closest",
+            "showlegend": true,
+            "hoverlabel": {
+                "align": "left"
+            },
+            "separators": ".'",
+            "paper_bgcolor": "rgba(252,252,252,1)",
+            "plot_bgcolor": "rgba(252,252,252,1)",
+            "dragmode": true,
+            "font": {
+                "family": "Arial",
+                "size": 12
+            },
+            "legend": {
+                "bgcolor": "rgba(252,252,252,1)",
+                "text": "",
+                "orientation": "h",
+                "xanchor": "left",
+                "font": {
+                    "family": "Arial",
+                    "size": 12
+                },
+                "title": {
+                    "font": {
+                        "family": "Arial",
+                        "size": 12
+                    }
+                }
+            }
+        },
+        "source": "A",
+        "data": [
+            {
+                "x": [
+                    "2001-01-01",
+                    "2002-01-01",
+                    "2003-01-01",
+                    "2004-01-01",
+                    "2005-01-01",
+                    "2006-01-01",
+                    "2007-01-01",
+                    "2008-01-01",
+                    "2009-01-01",
+                    "2010-01-01",
+                    "2011-01-01",
+                    "2012-01-01",
+                    "2013-01-01",
+                    "2014-01-01",
+                    "2015-01-01",
+                    "2016-01-01",
+                    "2017-01-01",
+                    "2018-01-01",
+                    "2019-01-01",
+                    "2020-01-01",
+                    "2021-01-01",
+                    "2022-01-01"
+                ],
+                "y": [
+                    1617,
+                    1619,
+                    1656,
+                    1654,
+                    1692,
+                    1690,
+                    1738,
+                    1738,
+                    1795,
+                    1795,
+                    1830,
+                    1828,
+                    1844,
+                    1845,
+                    1855,
+                    1854,
+                    1853,
+                    1851,
+                    1867,
+                    1867,
+                    1885,
+                    1884
+                ],
+                "mode": "lines+markers",
+                "customdata": [
+                    "Jahr: 2001<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'617 (CHF)",
+                    "Jahr: 2002<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'619 (CHF)",
+                    "Jahr: 2003<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'656 (CHF)",
+                    "Jahr: 2004<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'654 (CHF)",
+                    "Jahr: 2005<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'692 (CHF)",
+                    "Jahr: 2006<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'690 (CHF)",
+                    "Jahr: 2007<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'738 (CHF)",
+                    "Jahr: 2008<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'738 (CHF)",
+                    "Jahr: 2009<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'795 (CHF)",
+                    "Jahr: 2010<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'795 (CHF)",
+                    "Jahr: 2011<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'830 (CHF)",
+                    "Jahr: 2012<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'828 (CHF)",
+                    "Jahr: 2013<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'844 (CHF)",
+                    "Jahr: 2014<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'845 (CHF)",
+                    "Jahr: 2015<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'855 (CHF)",
+                    "Jahr: 2016<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'854 (CHF)",
+                    "Jahr: 2017<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'853 (CHF)",
+                    "Jahr: 2018<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'851 (CHF)",
+                    "Jahr: 2019<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'867 (CHF)",
+                    "Jahr: 2020<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'867 (CHF)",
+                    "Jahr: 2021<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'885 (CHF)",
+                    "Jahr: 2022<br>Typ: Altersrente<br>Durchschnittliche Rente: 1'884 (CHF)"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "scatter",
+                "name": "Altersrente",
+                "marker": {
+                    "color": "rgba(75,0,130,1)",
+                    "line": {
+                        "color": "rgba(75,0,130,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "error_y": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "error_x": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "line": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "x": [
+                    "2001-01-01",
+                    "2002-01-01",
+                    "2003-01-01",
+                    "2004-01-01",
+                    "2005-01-01",
+                    "2006-01-01",
+                    "2007-01-01",
+                    "2008-01-01",
+                    "2009-01-01",
+                    "2010-01-01",
+                    "2011-01-01",
+                    "2012-01-01",
+                    "2013-01-01",
+                    "2014-01-01",
+                    "2015-01-01",
+                    "2016-01-01",
+                    "2017-01-01",
+                    "2018-01-01",
+                    "2019-01-01",
+                    "2020-01-01",
+                    "2021-01-01",
+                    "2022-01-01"
+                ],
+                "y": [
+                    676,
+                    670,
+                    676,
+                    665,
+                    681,
+                    682,
+                    708,
+                    706,
+                    721,
+                    713,
+                    727,
+                    723,
+                    724,
+                    703,
+                    723,
+                    723,
+                    724,
+                    718,
+                    717,
+                    709,
+                    702,
+                    696
+                ],
+                "mode": "lines+markers",
+                "customdata": [
+                    "Jahr: 2001<br>Typ: Waise<br>Durchschnittliche Rente:   676 (CHF)",
+                    "Jahr: 2002<br>Typ: Waise<br>Durchschnittliche Rente:   670 (CHF)",
+                    "Jahr: 2003<br>Typ: Waise<br>Durchschnittliche Rente:   676 (CHF)",
+                    "Jahr: 2004<br>Typ: Waise<br>Durchschnittliche Rente:   665 (CHF)",
+                    "Jahr: 2005<br>Typ: Waise<br>Durchschnittliche Rente:   681 (CHF)",
+                    "Jahr: 2006<br>Typ: Waise<br>Durchschnittliche Rente:   682 (CHF)",
+                    "Jahr: 2007<br>Typ: Waise<br>Durchschnittliche Rente:   708 (CHF)",
+                    "Jahr: 2008<br>Typ: Waise<br>Durchschnittliche Rente:   706 (CHF)",
+                    "Jahr: 2009<br>Typ: Waise<br>Durchschnittliche Rente:   721 (CHF)",
+                    "Jahr: 2010<br>Typ: Waise<br>Durchschnittliche Rente:   713 (CHF)",
+                    "Jahr: 2011<br>Typ: Waise<br>Durchschnittliche Rente:   727 (CHF)",
+                    "Jahr: 2012<br>Typ: Waise<br>Durchschnittliche Rente:   723 (CHF)",
+                    "Jahr: 2013<br>Typ: Waise<br>Durchschnittliche Rente:   724 (CHF)",
+                    "Jahr: 2014<br>Typ: Waise<br>Durchschnittliche Rente:   703 (CHF)",
+                    "Jahr: 2015<br>Typ: Waise<br>Durchschnittliche Rente:   723 (CHF)",
+                    "Jahr: 2016<br>Typ: Waise<br>Durchschnittliche Rente:   723 (CHF)",
+                    "Jahr: 2017<br>Typ: Waise<br>Durchschnittliche Rente:   724 (CHF)",
+                    "Jahr: 2018<br>Typ: Waise<br>Durchschnittliche Rente:   718 (CHF)",
+                    "Jahr: 2019<br>Typ: Waise<br>Durchschnittliche Rente:   717 (CHF)",
+                    "Jahr: 2020<br>Typ: Waise<br>Durchschnittliche Rente:   709 (CHF)",
+                    "Jahr: 2021<br>Typ: Waise<br>Durchschnittliche Rente:   702 (CHF)",
+                    "Jahr: 2022<br>Typ: Waise<br>Durchschnittliche Rente:   696 (CHF)"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "scatter",
+                "name": "Waise",
+                "marker": {
+                    "color": "rgba(0,111,181,1)",
+                    "line": {
+                        "color": "rgba(0,111,181,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "error_y": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "error_x": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "line": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "x": [
+                    "2001-01-01",
+                    "2002-01-01",
+                    "2003-01-01",
+                    "2004-01-01",
+                    "2005-01-01",
+                    "2006-01-01",
+                    "2007-01-01",
+                    "2008-01-01",
+                    "2009-01-01",
+                    "2010-01-01",
+                    "2011-01-01",
+                    "2012-01-01",
+                    "2013-01-01",
+                    "2014-01-01",
+                    "2015-01-01",
+                    "2016-01-01",
+                    "2017-01-01",
+                    "2018-01-01",
+                    "2019-01-01",
+                    "2020-01-01",
+                    "2021-01-01",
+                    "2022-01-01"
+                ],
+                "y": [
+                    1473,
+                    1466,
+                    1502,
+                    1496,
+                    1524,
+                    1521,
+                    1577,
+                    1575,
+                    1614,
+                    1604,
+                    1630,
+                    1615,
+                    1620,
+                    1619,
+                    1640,
+                    1642,
+                    1643,
+                    1613,
+                    1634,
+                    1608,
+                    1616,
+                    1617
+                ],
+                "mode": "lines+markers",
+                "customdata": [
+                    "Jahr: 2001<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'473 (CHF)",
+                    "Jahr: 2002<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'466 (CHF)",
+                    "Jahr: 2003<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'502 (CHF)",
+                    "Jahr: 2004<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'496 (CHF)",
+                    "Jahr: 2005<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'524 (CHF)",
+                    "Jahr: 2006<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'521 (CHF)",
+                    "Jahr: 2007<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'577 (CHF)",
+                    "Jahr: 2008<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'575 (CHF)",
+                    "Jahr: 2009<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'614 (CHF)",
+                    "Jahr: 2010<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'604 (CHF)",
+                    "Jahr: 2011<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'630 (CHF)",
+                    "Jahr: 2012<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'615 (CHF)",
+                    "Jahr: 2013<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'620 (CHF)",
+                    "Jahr: 2014<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'619 (CHF)",
+                    "Jahr: 2015<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'640 (CHF)",
+                    "Jahr: 2016<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'642 (CHF)",
+                    "Jahr: 2017<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'643 (CHF)",
+                    "Jahr: 2018<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'613 (CHF)",
+                    "Jahr: 2019<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'634 (CHF)",
+                    "Jahr: 2020<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'608 (CHF)",
+                    "Jahr: 2021<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'616 (CHF)",
+                    "Jahr: 2022<br>Typ: Witwer/Witwe<br>Durchschnittliche Rente: 1'617 (CHF)"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "scatter",
+                "name": "Witwer/Witwe",
+                "marker": {
+                    "color": "rgba(191,0,10,1)",
+                    "line": {
+                        "color": "rgba(191,0,10,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "error_y": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "error_x": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "line": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "x": [
+                    "2001-01-01",
+                    "2002-01-01",
+                    "2003-01-01",
+                    "2004-01-01",
+                    "2005-01-01",
+                    "2006-01-01",
+                    "2007-01-01",
+                    "2008-01-01",
+                    "2009-01-01",
+                    "2010-01-01",
+                    "2011-01-01",
+                    "2012-01-01",
+                    "2013-01-01",
+                    "2014-01-01",
+                    "2015-01-01",
+                    "2016-01-01",
+                    "2017-01-01",
+                    "2018-01-01",
+                    "2019-01-01",
+                    "2020-01-01",
+                    "2021-01-01",
+                    "2022-01-01"
+                ],
+                "y": [
+                    551,
+                    550,
+                    558,
+                    528,
+                    544,
+                    549,
+                    561,
+                    557,
+                    570,
+                    529,
+                    539,
+                    528,
+                    563,
+                    588,
+                    567,
+                    575,
+                    543,
+                    566,
+                    561,
+                    561,
+                    539,
+                    539
+                ],
+                "mode": "lines+markers",
+                "customdata": [
+                    "Jahr: 2001<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   551 (CHF)",
+                    "Jahr: 2002<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   550 (CHF)",
+                    "Jahr: 2003<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   558 (CHF)",
+                    "Jahr: 2004<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   528 (CHF)",
+                    "Jahr: 2005<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   544 (CHF)",
+                    "Jahr: 2006<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   549 (CHF)",
+                    "Jahr: 2007<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   561 (CHF)",
+                    "Jahr: 2008<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   557 (CHF)",
+                    "Jahr: 2009<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   570 (CHF)",
+                    "Jahr: 2010<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   529 (CHF)",
+                    "Jahr: 2011<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   539 (CHF)",
+                    "Jahr: 2012<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   528 (CHF)",
+                    "Jahr: 2013<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   563 (CHF)",
+                    "Jahr: 2014<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   588 (CHF)",
+                    "Jahr: 2015<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   567 (CHF)",
+                    "Jahr: 2016<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   575 (CHF)",
+                    "Jahr: 2017<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   543 (CHF)",
+                    "Jahr: 2018<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   566 (CHF)",
+                    "Jahr: 2019<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   561 (CHF)",
+                    "Jahr: 2020<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   561 (CHF)",
+                    "Jahr: 2021<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   539 (CHF)",
+                    "Jahr: 2022<br>Typ: Zusatzrente für Ehepartner<br>Durchschnittliche Rente:   539 (CHF)"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "scatter",
+                "name": "Zusatzrente für Ehepartner",
+                "marker": {
+                    "color": "rgba(255,165,0,1)",
+                    "line": {
+                        "color": "rgba(255,165,0,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(255,165,0,1)"
+                },
+                "error_y": {
+                    "color": "rgba(255,165,0,1)"
+                },
+                "error_x": {
+                    "color": "rgba(255,165,0,1)"
+                },
+                "line": {
+                    "color": "rgba(255,165,0,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "x": [
+                    "2001-01-01",
+                    "2002-01-01",
+                    "2003-01-01",
+                    "2004-01-01",
+                    "2005-01-01",
+                    "2006-01-01",
+                    "2007-01-01",
+                    "2008-01-01",
+                    "2009-01-01",
+                    "2010-01-01",
+                    "2011-01-01",
+                    "2012-01-01",
+                    "2013-01-01",
+                    "2014-01-01",
+                    "2015-01-01",
+                    "2016-01-01",
+                    "2017-01-01",
+                    "2018-01-01",
+                    "2019-01-01",
+                    "2020-01-01",
+                    "2021-01-01",
+                    "2022-01-01"
+                ],
+                "y": [
+                    644,
+                    665,
+                    671,
+                    685,
+                    723,
+                    721,
+                    743,
+                    720,
+                    763,
+                    780,
+                    766,
+                    763,
+                    771,
+                    776,
+                    799,
+                    774,
+                    771,
+                    753,
+                    777,
+                    784,
+                    772,
+                    763
+                ],
+                "mode": "lines+markers",
+                "customdata": [
+                    "Jahr: 2001<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   644 (CHF)",
+                    "Jahr: 2002<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   665 (CHF)",
+                    "Jahr: 2003<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   671 (CHF)",
+                    "Jahr: 2004<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   685 (CHF)",
+                    "Jahr: 2005<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   723 (CHF)",
+                    "Jahr: 2006<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   721 (CHF)",
+                    "Jahr: 2007<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   743 (CHF)",
+                    "Jahr: 2008<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   720 (CHF)",
+                    "Jahr: 2009<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   763 (CHF)",
+                    "Jahr: 2010<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   780 (CHF)",
+                    "Jahr: 2011<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   766 (CHF)",
+                    "Jahr: 2012<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   763 (CHF)",
+                    "Jahr: 2013<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   771 (CHF)",
+                    "Jahr: 2014<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   776 (CHF)",
+                    "Jahr: 2015<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   799 (CHF)",
+                    "Jahr: 2016<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   774 (CHF)",
+                    "Jahr: 2017<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   771 (CHF)",
+                    "Jahr: 2018<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   753 (CHF)",
+                    "Jahr: 2019<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   777 (CHF)",
+                    "Jahr: 2020<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   784 (CHF)",
+                    "Jahr: 2021<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   772 (CHF)",
+                    "Jahr: 2022<br>Typ: Zusatzrente für Kinder<br>Durchschnittliche Rente:   763 (CHF)"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "scatter",
+                "name": "Zusatzrente für Kinder",
+                "marker": {
+                    "color": "rgba(253,231,37,1)",
+                    "line": {
+                        "color": "rgba(253,231,37,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "error_y": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "error_x": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "line": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            }
+        ],
+        "highlight": {
+            "on": "plotly_click",
+            "persistent": false,
+            "dynamic": false,
+            "selectize": false,
+            "opacityDim": 0.20000000000000001,
+            "selected": {
+                "opacity": 1
+            },
+            "debounce": 0
+        },
+        "shinyEvents": [
+            "plotly_hover",
+            "plotly_click",
+            "plotly_selected",
+            "plotly_relayout",
+            "plotly_brushed",
+            "plotly_brushing",
+            "plotly_clickannotation",
+            "plotly_doubleclick",
+            "plotly_deselect",
+            "plotly_afterplot",
+            "plotly_sunburstclick"
+        ],
+        "base_url": "https://plot.ly"
+    },
+    "width": null,
+    "height": null,
+    "sizingPolicy": {
+        "defaultWidth": "100%",
+        "defaultHeight": 400,
+        "padding": 0,
+        "fill": null,
+        "viewer": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "padding": null,
+            "fill": true,
+            "suppress": false,
+            "paneHeight": null
+        },
+        "browser": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "padding": null,
+            "fill": true,
+            "external": false
+        },
+        "knitr": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "figure": true
+        }
+    },
+    "dependencies": [
+        {
+            "name": "typedarray",
+            "version": "0.1",
+            "src": {
+                "file": "htmlwidgets/lib/typedarray"
+            },
+            "meta": null,
+            "script": "typedarray.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        },
+        {
+            "name": "jquery",
+            "version": "3.5.1",
+            "src": {
+                "file": "lib/jquery"
+            },
+            "meta": null,
+            "script": "jquery.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "crosstalk",
+            "all_files": true
+        },
+        {
+            "name": "crosstalk",
+            "version": "1.2.0",
+            "src": {
+                "file": "www"
+            },
+            "meta": null,
+            "script": "js/crosstalk.min.js",
+            "stylesheet": "css/crosstalk.min.css",
+            "head": null,
+            "attachment": null,
+            "package": "crosstalk",
+            "all_files": true
+        },
+        {
+            "name": "plotly-htmlwidgets-css",
+            "version": "2.11.1",
+            "src": {
+                "file": "htmlwidgets/lib/plotlyjs"
+            },
+            "meta": null,
+            "script": null,
+            "stylesheet": "plotly-htmlwidgets.css",
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        },
+        {
+            "name": "plotly-main",
+            "version": "2.11.1",
+            "src": {
+                "file": "htmlwidgets/lib/plotlyjs"
+            },
+            "meta": null,
+            "script": "plotly-latest.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        }
+    ],
+    "elementId": null,
+    "preRenderHook": [
+        "function (p, registerFrames = TRUE) ",
+        "{",
+        "    UseMethod(\"plotly_build\")",
+        "}"
+    ],
+    "jsHooks": [],
+    "anno": {
+        "title": "Durschnittliche Rente nach Typ",
+        "subtitle": "Kanton Zug, 2001 bis 2022",
+        "description": "",
+        "source": "Quelle: Bundesamt für Sozialversicherungen, AHV-Statistik"
+    }
+}
