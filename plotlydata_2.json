@@ -1,1 +1,573 @@
-{"x":{"visdat":{"40b01521627":["function () ","plotlyVisDat"]},"cur_data":"40b01521627","attrs":{"40b01521627":{"y":{},"x":{},"customdata":{},"hovertemplate":"%{customdata}<extra><\/extra>","color":{},"colors":["#4B0082","#006FB5","#BF000A","#fde725"],"alpha_stroke":1,"sizes":[10,100],"spans":[1,20],"type":"bar"}},"layout":{"margin":{"b":50,"l":10,"t":40,"r":10},"barmode":"stack","xaxis":{"domain":[0,1],"automargin":true,"tickformat":",.0f","ticksuffix":" %","title":"","showgrid":false,"linecolor":"black","ticklen":7.5,"fixedrange":false},"hoverlabel":{"align":"left"},"separators":".'","paper_bgcolor":"rgba(252,252,252,1)","plot_bgcolor":"rgba(252,252,252,1)","dragmode":true,"font":{"family":"Arial","size":12},"legend":{"bgcolor":"rgba(252,252,252,1)","text":"","orientation":"h","xanchor":"left","font":{"family":"Arial","size":12},"title":{"font":{"family":"Arial","size":12}}},"yaxis":{"domain":[0,1],"automargin":true,"title":"","linecolor":"black","ticklen":7.5,"fixedrange":false,"type":"category","categoryorder":"array","categoryarray":["Kanton Zug","Baar","Cham","Hünenberg","Menzingen","Neuheim","Oberägeri","Risch","Steinhausen","Unterägeri","Walchwil","Zug"]},"hovermode":"closest","showlegend":true},"source":"A","data":[{"y":["Kanton Zug","Baar","Cham","Hünenberg","Menzingen","Neuheim","Oberägeri","Risch","Steinhausen","Unterägeri","Walchwil","Zug"],"x":[54.502398819042931,53.000750187546885,47.906976744186046,54.858718125430741,67.830423940149629,68,63.598673300165842,53.550042771599657,49.45705824284304,59.598662207357854,61.622276029055691,48.721109399075502],"customdata":["Kanton Zug<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 8'861<br>Anteil (%): 54,5","Baar<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 1'413<br>Anteil (%): 53,0","Cham<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   927<br>Anteil (%): 47,9","Hünenberg<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   796<br>Anteil (%): 54,9","Menzingen<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   544<br>Anteil (%): 67,8","Neuheim<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   306<br>Anteil (%): 68,0","Oberägeri<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   767<br>Anteil (%): 63,6","Risch<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   626<br>Anteil (%): 53,6","Steinhausen<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   501<br>Anteil (%): 49,5","Unterägeri<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   891<br>Anteil (%): 59,6","Walchwil<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   509<br>Anteil (%): 61,6","Zug<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 1'581<br>Anteil (%): 48,7"],"hovertemplate":["%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>"],"type":"bar","orientation":"h","name":"Natürliche Person","marker":{"color":"rgba(75,0,130,1)","line":{"color":"rgba(75,0,130,1)"}},"textfont":{"color":"rgba(75,0,130,1)"},"error_y":{"color":"rgba(75,0,130,1)"},"error_x":{"color":"rgba(75,0,130,1)"},"xaxis":"x","yaxis":"y","frame":null},{"y":["Kanton Zug","Baar","Cham","Hünenberg","Menzingen","Neuheim","Oberägeri","Risch","Steinhausen","Unterägeri","Walchwil","Zug"],"x":[17.628244556526017,16.091522880720181,18.604651162790699,22.053756030323914,14.089775561097257,15.333333333333332,19.485903814262024,18.648417450812659,21.520236920039487,18.729096989966553,17.070217917675546,14.884437596302003],"customdata":["Kanton Zug<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude: 2'866<br>Anteil (%): 17,6","Baar<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   429<br>Anteil (%): 16,1","Cham<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   360<br>Anteil (%): 18,6","Hünenberg<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   320<br>Anteil (%): 22,1","Menzingen<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   113<br>Anteil (%): 14,1","Neuheim<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:    69<br>Anteil (%): 15,3","Oberägeri<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   235<br>Anteil (%): 19,5","Risch<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   218<br>Anteil (%): 18,6","Steinhausen<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   218<br>Anteil (%): 21,5","Unterägeri<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   280<br>Anteil (%): 18,7","Walchwil<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   141<br>Anteil (%): 17,1","Zug<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   483<br>Anteil (%): 14,9"],"hovertemplate":["%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>"],"type":"bar","orientation":"h","name":"Gemeinschaft","marker":{"color":"rgba(0,111,181,1)","line":{"color":"rgba(0,111,181,1)"}},"textfont":{"color":"rgba(0,111,181,1)"},"error_y":{"color":"rgba(0,111,181,1)"},"error_x":{"color":"rgba(0,111,181,1)"},"xaxis":"x","yaxis":"y","frame":null},{"y":["Kanton Zug","Baar","Cham","Hünenberg","Menzingen","Neuheim","Oberägeri","Risch","Steinhausen","Unterägeri","Walchwil","Zug"],"x":[15.493910690121787,15.378844711177795,17.984496124031008,10.957960027567196,12.094763092269327,9.3333333333333339,6.467661691542288,17.792985457656115,14.511352418558737,9.6989966555183944,9.2009685230024214,24.930662557781204],"customdata":["Kanton Zug<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude: 2'519<br>Anteil (%): 15,5","Baar<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   410<br>Anteil (%): 15,4","Cham<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   348<br>Anteil (%): 18,0","Hünenberg<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   159<br>Anteil (%): 11,0","Menzingen<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    97<br>Anteil (%): 12,1","Neuheim<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    42<br>Anteil (%):  9,3","Oberägeri<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    78<br>Anteil (%):  6,5","Risch<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   208<br>Anteil (%): 17,8","Steinhausen<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   147<br>Anteil (%): 14,5","Unterägeri<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   145<br>Anteil (%):  9,7","Walchwil<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    76<br>Anteil (%):  9,2","Zug<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   809<br>Anteil (%): 24,9"],"hovertemplate":["%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>"],"type":"bar","orientation":"h","name":"Juristische Person","marker":{"color":"rgba(191,0,10,1)","line":{"color":"rgba(191,0,10,1)"}},"textfont":{"color":"rgba(191,0,10,1)"},"error_y":{"color":"rgba(191,0,10,1)"},"error_x":{"color":"rgba(191,0,10,1)"},"xaxis":"x","yaxis":"y","frame":null},{"y":["Kanton Zug","Baar","Cham","Hünenberg","Menzingen","Neuheim","Oberägeri","Risch","Steinhausen","Unterägeri","Walchwil","Zug"],"x":[12.375445934309264,15.528882220555138,15.503875968992247,12.129565816678154,5.9850374064837908,7.333333333333333,10.44776119402985,10.008554319931566,14.511352418558737,11.973244147157191,12.106537530266344,11.463790446841294],"customdata":["Kanton Zug<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude: 2'012<br>Anteil (%): 12,4","Baar<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   414<br>Anteil (%): 15,5","Cham<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   300<br>Anteil (%): 15,5","Hünenberg<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   176<br>Anteil (%): 12,1","Menzingen<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:    48<br>Anteil (%):  6,0","Neuheim<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:    33<br>Anteil (%):  7,3","Oberägeri<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   126<br>Anteil (%): 10,4","Risch<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   117<br>Anteil (%): 10,0","Steinhausen<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   147<br>Anteil (%): 14,5","Unterägeri<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   179<br>Anteil (%): 12,0","Walchwil<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   100<br>Anteil (%): 12,1","Zug<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   372<br>Anteil (%): 11,5"],"hovertemplate":["%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>","%{customdata}<extra><\/extra>"],"type":"bar","orientation":"h","name":"Gemischt","marker":{"color":"rgba(253,231,37,1)","line":{"color":"rgba(253,231,37,1)"}},"textfont":{"color":"rgba(253,231,37,1)"},"error_y":{"color":"rgba(253,231,37,1)"},"error_x":{"color":"rgba(253,231,37,1)"},"xaxis":"x","yaxis":"y","frame":null}],"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.20000000000000001,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"width":null,"height":null,"sizingPolicy":{"defaultWidth":"100%","defaultHeight":400,"padding":0,"fill":null,"viewer":{"defaultWidth":null,"defaultHeight":null,"padding":null,"fill":true,"suppress":false,"paneHeight":null},"browser":{"defaultWidth":null,"defaultHeight":null,"padding":null,"fill":true,"external":false},"knitr":{"defaultWidth":null,"defaultHeight":null,"figure":true}},"dependencies":[{"name":"typedarray","version":"0.1","src":{"file":"htmlwidgets/lib/typedarray"},"meta":null,"script":"typedarray.min.js","stylesheet":null,"head":null,"attachment":null,"package":"plotly","all_files":false},{"name":"jquery","version":"3.5.1","src":{"file":"lib/jquery"},"meta":null,"script":"jquery.min.js","stylesheet":null,"head":null,"attachment":null,"package":"crosstalk","all_files":true},{"name":"crosstalk","version":"1.2.0","src":{"file":"www"},"meta":null,"script":"js/crosstalk.min.js","stylesheet":"css/crosstalk.min.css","head":null,"attachment":null,"package":"crosstalk","all_files":true},{"name":"plotly-htmlwidgets-css","version":"2.11.1","src":{"file":"htmlwidgets/lib/plotlyjs"},"meta":null,"script":null,"stylesheet":"plotly-htmlwidgets.css","head":null,"attachment":null,"package":"plotly","all_files":false},{"name":"plotly-main","version":"2.11.1","src":{"file":"htmlwidgets/lib/plotlyjs"},"meta":null,"script":"plotly-latest.min.js","stylesheet":null,"head":null,"attachment":null,"package":"plotly","all_files":false}],"elementId":null,"preRenderHook":["function (p, registerFrames = TRUE) ","{","    UseMethod(\"plotly_build\")","}"],"jsHooks":[],"anno":{"title":"Gebäude mit Wohnnutzung nach Gemeinde und Eigentümertyp","subtitle":"Kanton Zug und Zuger Gemeinden, 2022","description":"","source":"Quelle: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik"}}
+{
+    "x": {
+        "visdat": {
+            "40b01521627": [
+                "function () ",
+                "plotlyVisDat"
+            ]
+        },
+        "cur_data": "40b01521627",
+        "attrs": {
+            "40b01521627": {
+                "y": {},
+                "x": {},
+                "customdata": {},
+                "hovertemplate": "%{customdata}<extra><\/extra>",
+                "color": {},
+                "colors": [
+                    "#4B0082",
+                    "#006FB5",
+                    "#BF000A",
+                    "#fde725"
+                ],
+                "alpha_stroke": 1,
+                "sizes": [
+                    10,
+                    100
+                ],
+                "spans": [
+                    1,
+                    20
+                ],
+                "type": "bar"
+            }
+        },
+        "layout": {
+            "margin": {
+                "b": 50,
+                "l": 10,
+                "t": 40,
+                "r": 10
+            },
+            "barmode": "stack",
+            "xaxis": {
+                "domain": [
+                    0,
+                    1
+                ],
+                "automargin": true,
+                "tickformat": ",.0f",
+                "ticksuffix": " %",
+                "title": "",
+                "showgrid": false,
+                "linecolor": "black",
+                "ticklen": 7.5,
+                "fixedrange": false
+            },
+            "hoverlabel": {
+                "align": "left"
+            },
+            "separators": ".'",
+            "paper_bgcolor": "rgba(252,252,252,1)",
+            "plot_bgcolor": "rgba(252,252,252,1)",
+            "dragmode": true,
+            "font": {
+                "family": "Arial",
+                "size": 12
+            },
+            "legend": {
+                "bgcolor": "rgba(252,252,252,1)",
+                "text": "",
+                "orientation": "h",
+                "xanchor": "left",
+                "font": {
+                    "family": "Arial",
+                    "size": 12
+                },
+                "title": {
+                    "font": {
+                        "family": "Arial",
+                        "size": 12
+                    }
+                }
+            },
+            "yaxis": {
+                "domain": [
+                    0,
+                    1
+                ],
+                "automargin": true,
+                "title": "",
+                "linecolor": "black",
+                "ticklen": 7.5,
+                "fixedrange": false,
+                "type": "category",
+                "categoryorder": "array",
+                "categoryarray": [
+                    "Kanton Zug",
+                    "Baar",
+                    "Cham",
+                    "Hünenberg",
+                    "Menzingen",
+                    "Neuheim",
+                    "Oberägeri",
+                    "Risch",
+                    "Steinhausen",
+                    "Unterägeri",
+                    "Walchwil",
+                    "Zug"
+                ]
+            },
+            "hovermode": "closest",
+            "showlegend": true
+        },
+        "source": "A",
+        "data": [
+            {
+                "y": [
+                    "Kanton Zug",
+                    "Baar",
+                    "Cham",
+                    "Hünenberg",
+                    "Menzingen",
+                    "Neuheim",
+                    "Oberägeri",
+                    "Risch",
+                    "Steinhausen",
+                    "Unterägeri",
+                    "Walchwil",
+                    "Zug"
+                ],
+                "x": [
+                    54.502398819042931,
+                    53.000750187546885,
+                    47.906976744186046,
+                    54.858718125430741,
+                    67.830423940149629,
+                    68,
+                    63.598673300165842,
+                    53.550042771599657,
+                    49.45705824284304,
+                    59.598662207357854,
+                    61.622276029055691,
+                    48.721109399075502
+                ],
+                "customdata": [
+                    "Kanton Zug<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 8'861<br>Anteil (%): 54,5",
+                    "Baar<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 1'413<br>Anteil (%): 53,0",
+                    "Cham<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   927<br>Anteil (%): 47,9",
+                    "Hünenberg<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   796<br>Anteil (%): 54,9",
+                    "Menzingen<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   544<br>Anteil (%): 67,8",
+                    "Neuheim<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   306<br>Anteil (%): 68,0",
+                    "Oberägeri<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   767<br>Anteil (%): 63,6",
+                    "Risch<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   626<br>Anteil (%): 53,6",
+                    "Steinhausen<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   501<br>Anteil (%): 49,5",
+                    "Unterägeri<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   891<br>Anteil (%): 59,6",
+                    "Walchwil<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude:   509<br>Anteil (%): 61,6",
+                    "Zug<br>Jahr: 2022<br>Eigentümer: Natürliche Person<br>Anzahl Gebäude: 1'581<br>Anteil (%): 48,7"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "bar",
+                "orientation": "h",
+                "name": "Natürliche Person",
+                "marker": {
+                    "color": "rgba(75,0,130,1)",
+                    "line": {
+                        "color": "rgba(75,0,130,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "error_y": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "error_x": {
+                    "color": "rgba(75,0,130,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "y": [
+                    "Kanton Zug",
+                    "Baar",
+                    "Cham",
+                    "Hünenberg",
+                    "Menzingen",
+                    "Neuheim",
+                    "Oberägeri",
+                    "Risch",
+                    "Steinhausen",
+                    "Unterägeri",
+                    "Walchwil",
+                    "Zug"
+                ],
+                "x": [
+                    17.628244556526017,
+                    16.091522880720181,
+                    18.604651162790699,
+                    22.053756030323914,
+                    14.089775561097257,
+                    15.333333333333332,
+                    19.485903814262024,
+                    18.648417450812659,
+                    21.520236920039487,
+                    18.729096989966553,
+                    17.070217917675546,
+                    14.884437596302003
+                ],
+                "customdata": [
+                    "Kanton Zug<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude: 2'866<br>Anteil (%): 17,6",
+                    "Baar<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   429<br>Anteil (%): 16,1",
+                    "Cham<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   360<br>Anteil (%): 18,6",
+                    "Hünenberg<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   320<br>Anteil (%): 22,1",
+                    "Menzingen<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   113<br>Anteil (%): 14,1",
+                    "Neuheim<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:    69<br>Anteil (%): 15,3",
+                    "Oberägeri<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   235<br>Anteil (%): 19,5",
+                    "Risch<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   218<br>Anteil (%): 18,6",
+                    "Steinhausen<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   218<br>Anteil (%): 21,5",
+                    "Unterägeri<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   280<br>Anteil (%): 18,7",
+                    "Walchwil<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   141<br>Anteil (%): 17,1",
+                    "Zug<br>Jahr: 2022<br>Eigentümer: Gemeinschaft<br>Anzahl Gebäude:   483<br>Anteil (%): 14,9"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "bar",
+                "orientation": "h",
+                "name": "Gemeinschaft",
+                "marker": {
+                    "color": "rgba(0,111,181,1)",
+                    "line": {
+                        "color": "rgba(0,111,181,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "error_y": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "error_x": {
+                    "color": "rgba(0,111,181,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "y": [
+                    "Kanton Zug",
+                    "Baar",
+                    "Cham",
+                    "Hünenberg",
+                    "Menzingen",
+                    "Neuheim",
+                    "Oberägeri",
+                    "Risch",
+                    "Steinhausen",
+                    "Unterägeri",
+                    "Walchwil",
+                    "Zug"
+                ],
+                "x": [
+                    15.493910690121787,
+                    15.378844711177795,
+                    17.984496124031008,
+                    10.957960027567196,
+                    12.094763092269327,
+                    9.3333333333333339,
+                    6.467661691542288,
+                    17.792985457656115,
+                    14.511352418558737,
+                    9.6989966555183944,
+                    9.2009685230024214,
+                    24.930662557781204
+                ],
+                "customdata": [
+                    "Kanton Zug<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude: 2'519<br>Anteil (%): 15,5",
+                    "Baar<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   410<br>Anteil (%): 15,4",
+                    "Cham<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   348<br>Anteil (%): 18,0",
+                    "Hünenberg<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   159<br>Anteil (%): 11,0",
+                    "Menzingen<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    97<br>Anteil (%): 12,1",
+                    "Neuheim<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    42<br>Anteil (%):  9,3",
+                    "Oberägeri<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    78<br>Anteil (%):  6,5",
+                    "Risch<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   208<br>Anteil (%): 17,8",
+                    "Steinhausen<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   147<br>Anteil (%): 14,5",
+                    "Unterägeri<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   145<br>Anteil (%):  9,7",
+                    "Walchwil<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:    76<br>Anteil (%):  9,2",
+                    "Zug<br>Jahr: 2022<br>Eigentümer: Juristische Person<br>Anzahl Gebäude:   809<br>Anteil (%): 24,9"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "bar",
+                "orientation": "h",
+                "name": "Juristische Person",
+                "marker": {
+                    "color": "rgba(191,0,10,1)",
+                    "line": {
+                        "color": "rgba(191,0,10,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "error_y": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "error_x": {
+                    "color": "rgba(191,0,10,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            },
+            {
+                "y": [
+                    "Kanton Zug",
+                    "Baar",
+                    "Cham",
+                    "Hünenberg",
+                    "Menzingen",
+                    "Neuheim",
+                    "Oberägeri",
+                    "Risch",
+                    "Steinhausen",
+                    "Unterägeri",
+                    "Walchwil",
+                    "Zug"
+                ],
+                "x": [
+                    12.375445934309264,
+                    15.528882220555138,
+                    15.503875968992247,
+                    12.129565816678154,
+                    5.9850374064837908,
+                    7.333333333333333,
+                    10.44776119402985,
+                    10.008554319931566,
+                    14.511352418558737,
+                    11.973244147157191,
+                    12.106537530266344,
+                    11.463790446841294
+                ],
+                "customdata": [
+                    "Kanton Zug<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude: 2'012<br>Anteil (%): 12,4",
+                    "Baar<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   414<br>Anteil (%): 15,5",
+                    "Cham<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   300<br>Anteil (%): 15,5",
+                    "Hünenberg<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   176<br>Anteil (%): 12,1",
+                    "Menzingen<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:    48<br>Anteil (%):  6,0",
+                    "Neuheim<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:    33<br>Anteil (%):  7,3",
+                    "Oberägeri<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   126<br>Anteil (%): 10,4",
+                    "Risch<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   117<br>Anteil (%): 10,0",
+                    "Steinhausen<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   147<br>Anteil (%): 14,5",
+                    "Unterägeri<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   179<br>Anteil (%): 12,0",
+                    "Walchwil<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   100<br>Anteil (%): 12,1",
+                    "Zug<br>Jahr: 2022<br>Eigentümer: Gemischt<br>Anzahl Gebäude:   372<br>Anteil (%): 11,5"
+                ],
+                "hovertemplate": [
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>",
+                    "%{customdata}<extra><\/extra>"
+                ],
+                "type": "bar",
+                "orientation": "h",
+                "name": "Gemischt",
+                "marker": {
+                    "color": "rgba(253,231,37,1)",
+                    "line": {
+                        "color": "rgba(253,231,37,1)"
+                    }
+                },
+                "textfont": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "error_y": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "error_x": {
+                    "color": "rgba(253,231,37,1)"
+                },
+                "xaxis": "x",
+                "yaxis": "y",
+                "frame": null
+            }
+        ],
+        "highlight": {
+            "on": "plotly_click",
+            "persistent": false,
+            "dynamic": false,
+            "selectize": false,
+            "opacityDim": 0.20000000000000001,
+            "selected": {
+                "opacity": 1
+            },
+            "debounce": 0
+        },
+        "shinyEvents": [
+            "plotly_hover",
+            "plotly_click",
+            "plotly_selected",
+            "plotly_relayout",
+            "plotly_brushed",
+            "plotly_brushing",
+            "plotly_clickannotation",
+            "plotly_doubleclick",
+            "plotly_deselect",
+            "plotly_afterplot",
+            "plotly_sunburstclick"
+        ],
+        "base_url": "https://plot.ly"
+    },
+    "width": null,
+    "height": null,
+    "sizingPolicy": {
+        "defaultWidth": "100%",
+        "defaultHeight": 400,
+        "padding": 0,
+        "fill": null,
+        "viewer": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "padding": null,
+            "fill": true,
+            "suppress": false,
+            "paneHeight": null
+        },
+        "browser": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "padding": null,
+            "fill": true,
+            "external": false
+        },
+        "knitr": {
+            "defaultWidth": null,
+            "defaultHeight": null,
+            "figure": true
+        }
+    },
+    "dependencies": [
+        {
+            "name": "typedarray",
+            "version": "0.1",
+            "src": {
+                "file": "htmlwidgets/lib/typedarray"
+            },
+            "meta": null,
+            "script": "typedarray.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        },
+        {
+            "name": "jquery",
+            "version": "3.5.1",
+            "src": {
+                "file": "lib/jquery"
+            },
+            "meta": null,
+            "script": "jquery.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "crosstalk",
+            "all_files": true
+        },
+        {
+            "name": "crosstalk",
+            "version": "1.2.0",
+            "src": {
+                "file": "www"
+            },
+            "meta": null,
+            "script": "js/crosstalk.min.js",
+            "stylesheet": "css/crosstalk.min.css",
+            "head": null,
+            "attachment": null,
+            "package": "crosstalk",
+            "all_files": true
+        },
+        {
+            "name": "plotly-htmlwidgets-css",
+            "version": "2.11.1",
+            "src": {
+                "file": "htmlwidgets/lib/plotlyjs"
+            },
+            "meta": null,
+            "script": null,
+            "stylesheet": "plotly-htmlwidgets.css",
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        },
+        {
+            "name": "plotly-main",
+            "version": "2.11.1",
+            "src": {
+                "file": "htmlwidgets/lib/plotlyjs"
+            },
+            "meta": null,
+            "script": "plotly-latest.min.js",
+            "stylesheet": null,
+            "head": null,
+            "attachment": null,
+            "package": "plotly",
+            "all_files": false
+        }
+    ],
+    "elementId": null,
+    "preRenderHook": [
+        "function (p, registerFrames = TRUE) ",
+        "{",
+        "    UseMethod(\"plotly_build\")",
+        "}"
+    ],
+    "jsHooks": [],
+    "anno": {
+        "title": "Gebäude mit Wohnnutzung nach Gemeinde und Eigentümertyp",
+        "subtitle": "Kanton Zug und Zuger Gemeinden, 2022",
+        "description": "",
+        "source": "Quelle: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik"
+    }
+}
