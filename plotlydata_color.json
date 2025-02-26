@@ -1260,7 +1260,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -1328,19 +1328,19 @@
                 "type": "scatter",
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -1621,7 +1621,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -1690,19 +1690,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -1985,7 +1985,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -2054,19 +2054,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -2349,7 +2349,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -2418,19 +2418,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -2713,7 +2713,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -2782,19 +2782,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -3077,7 +3077,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -3146,19 +3146,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -3441,7 +3441,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -3510,19 +3510,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -3805,7 +3805,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -3874,19 +3874,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -4169,7 +4169,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -4238,19 +4238,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -4533,7 +4533,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -4602,19 +4602,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -4897,7 +4897,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -4966,19 +4966,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
@@ -5261,7 +5261,7 @@
                 "frame": null
             },
             {
-                "fillcolor": "rgba(0,111,181,0.8)",
+                "fillcolor": "var(--dxp-primitive-color-error-600)",
                 "x": [
                     "2010-01-01",
                     "2011-01-01",
@@ -5330,19 +5330,19 @@
                 "visible": false,
                 "name": "Mehrfamilienhaus",
                 "marker": {
-                    "color": "rgba(0,111,181,0.8)",
+                    "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
                         "color": "rgba(0,111,181,1)"
                     }
                 },
                 "textfont": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_y": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "error_x": {
-                    "color": "rgba(0,111,181,0.8)"
+                    "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
                     "color": "rgba(0,111,181,1)"
