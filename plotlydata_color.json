@@ -1330,7 +1330,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -1343,7 +1343,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -1692,7 +1692,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -1705,7 +1705,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -2056,7 +2056,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -2069,7 +2069,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -2420,7 +2420,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -2433,7 +2433,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -2784,7 +2784,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -2797,7 +2797,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -3148,7 +3148,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -3161,7 +3161,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -3512,7 +3512,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -3525,7 +3525,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -3876,7 +3876,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -3889,7 +3889,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -4240,7 +4240,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -4253,7 +4253,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -4604,7 +4604,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -4617,7 +4617,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -4968,7 +4968,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -4981,7 +4981,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
@@ -5332,7 +5332,7 @@
                 "marker": {
                     "color": "var(--dxp-primitive-color-error-600)",
                     "line": {
-                        "color": "rgba(0,111,181,1)"
+                        "color": "var(--dxp-primitive-color-error-800)"
                     }
                 },
                 "textfont": {
@@ -5345,7 +5345,7 @@
                     "color": "var(--dxp-primitive-color-error-600)"
                 },
                 "line": {
-                    "color": "rgba(0,111,181,1)"
+                    "color": "var(--dxp-primitive-color-error-800)"
                 },
                 "xaxis": "x",
                 "yaxis": "y",
